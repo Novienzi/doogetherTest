@@ -1,4 +1,4 @@
-# Welcome to Products API!
+# Welcome to Sessions API!
 
 ## About this project
 This is API to manage a data session
